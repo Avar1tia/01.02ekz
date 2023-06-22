@@ -1,0 +1,12 @@
+C:\Users\Sh1Za\source\repos\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sh1Za\source\repos\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sh1Za\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Sh1Za\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Sh1Za\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sh1Za\source\repos\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+D:\Студенты\Вариант4.10.16.22\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
